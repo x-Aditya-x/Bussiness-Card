@@ -1,0 +1,25 @@
+.avatar{
+    width: 130px;
+    height:140px;
+}
+
+.card{
+    display: flex;
+    flex-wrap:nowrap;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content:space-around;
+    width: 400px;
+    padding: 20px;
+    border-bottom: 5px #CEBEBE solid;
+    background-color: #EAE0D5;
+}
+
+.font{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info{
+    text-align: center;
+}
+
